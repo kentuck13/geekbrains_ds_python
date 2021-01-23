@@ -2,7 +2,7 @@ billing = int(input('Input your billing: '))
 costs = int(input('Input your costs: '))
 profit = billing - costs
 
-if profit:
+if profit > 0:
     print('You are in plus.')
 else:
     print('You are in minus.')
