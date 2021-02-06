@@ -1,0 +1,4 @@
+Jong - 19000
+Gvido - 21000
+Ruslan - 15000
+Bill - 8000
